@@ -1,3 +1,6 @@
+//https://github.com/mahmudul165/assingment
+
+
 // converter kilometer to meter
 function kilometerToMeter(kilo) {
    if(kilo<=0){
@@ -73,4 +76,3 @@ function megaFriend(nameList)
     return longWord;
 }
 console.log(megaFriend(["hak", "tushar", "mahmudul hasan","hakim", "payel", "julkar"]));
- 
